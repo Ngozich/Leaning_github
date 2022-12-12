@@ -1,2 +1,2 @@
 # DEMO
-# Welcome to this training
+# Welcome to this training !
